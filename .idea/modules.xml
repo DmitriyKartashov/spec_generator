@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/pp66/pp66.iml" filepath="$PROJECT_DIR$/pp66/pp66.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pp77/pp77.iml" filepath="$PROJECT_DIR$/pp77/pp77.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spec_generator.iml" filepath="$PROJECT_DIR$/spec_generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stub_project/stub_project.iml" filepath="$PROJECT_DIR$/stub_project/stub_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xom/xom.iml" filepath="$PROJECT_DIR$/xom/xom.iml" />
+    </modules>
+  </component>
+</project>

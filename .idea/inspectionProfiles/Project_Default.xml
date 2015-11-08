@@ -1,0 +1,22 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0" is_locked="false">
+    <option name="myName" value="Project Default" />
+    <option name="myLocal" value="false" />
+    <inspection_tool class="SSBasedInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Project Files" level="WARNING" enabled="true">
+        <searchConfiguration name="all expressions of some type" text="{&#10;&#9;$Expression$&#10;}" recursive="false" caseInsensitive="false" type="JAVA">
+          <constraint name="Expression" nameOfExprType="SomeType" within="" contains="" />
+        </searchConfiguration>
+        <replaceConfiguration name="bracets" text="){" recursive="false" caseInsensitive="true" type="JAVA" reformatAccordingToStyle="true" shortenFQN="true" replacement=") {">
+          <constraint name="__context__" script="&quot;&quot;" within="" contains="" />
+        </replaceConfiguration>
+      </scope>
+      <searchConfiguration name="all expressions of some type" text="{&#10;&#9;$Expression$&#10;}" recursive="false" caseInsensitive="false" type="JAVA">
+        <constraint name="Expression" nameOfExprType="SomeType" within="" contains="" />
+      </searchConfiguration>
+      <replaceConfiguration name="bracets" text="){" recursive="false" caseInsensitive="true" type="JAVA" reformatAccordingToStyle="true" shortenFQN="true" replacement=") {">
+        <constraint name="__context__" script="&quot;&quot;" within="" contains="" />
+      </replaceConfiguration>
+    </inspection_tool>
+  </profile>
+</component>
